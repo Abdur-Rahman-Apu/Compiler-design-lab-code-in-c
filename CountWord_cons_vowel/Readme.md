@@ -1,1 +1,1 @@
-![Count]("vowl or consonant.png")
+![GitHub Logo](vowl or consonant.png)
