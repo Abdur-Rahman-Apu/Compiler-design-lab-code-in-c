@@ -1,1 +1,1 @@
-![up_low](Uppr_lower.png)
+![up_low](uppr_lower.png)
