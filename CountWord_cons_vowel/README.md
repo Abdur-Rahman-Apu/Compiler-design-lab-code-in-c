@@ -1,1 +1,1 @@
-![GitHub Logo](vowl or consonant.png)
+![vowl](vowl_or_consonant.png)
